@@ -1,5 +1,11 @@
 # @frontendmonster/eslint-config
 
+---
+
+**⚠️WARN**: this repo moved to https://github.com/fullstacksjs/eslint-config
+
+---
+
 my personal ESLint rules.
 
 ## Installation
